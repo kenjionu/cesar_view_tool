@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.name = "cesar_view_tool"
   spec.version = CesarViewTool::VERSION
   spec.authors = ["Cesar Casares"]
-  spec.email = ["cacjmuse@gmamil.com"]
+  spec.email = ["cacjmuse@gmail.com"]
 
   spec.summary = %q{Various view specific methods for applications I use.}
   spec.description = "Gem testing create a library in Ruby On Rails"
@@ -14,7 +14,6 @@ Gem::Specification.new do |spec|
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
-  spec.metadata["allowed_push_host"] = "TODO: Set to your gem server 'https://example.com'"
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "https://github.com/kenjionu/cesar_view_tool"
